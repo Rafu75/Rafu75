@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm MD. Mahmudul Hasan Rafi</h1>
 <h3 align="center">"Passionate software engineer specializing in full-stack web development, with growing expertise in mobile applications and a keen interest in ethical hacking."</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafu75" alt="rafu75" /></a> </p>
-
 - 🔭 I’m currently working on **Full-stack Web Development**
 
 - 🌱 I’m currently learning **Mobile App Development & Ethical Hacking**
