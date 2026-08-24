@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm MD. Mahmudul Hasan Rafi</h1>
+<h1 align="center">Hi , I'm Md. Mahmudul Hasan Rafi</h1>
 <h3 align="center">"Passionate software engineer specializing in full-stack web development, with growing expertise in mobile applications and a keen interest in ethical hacking."</h3>
 
 - 🔭 I’m currently working on **Full-stack Web Development**
