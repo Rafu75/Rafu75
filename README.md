@@ -1,9 +1,10 @@
 <h1 align="center">Hi , I'm Md. Mahmudul Hasan Rafi</h1>
-<h3 align="center">"Passionate software engineer specializing in full-stack web development, with growing expertise in mobile applications and a keen interest in ethical hacking."</h3>
+<h3 align="center">"Full-Stack Web Developer specializing in the MERN Stack, with hands-on experience building scalable,
+responsive, and user-friendly web applications. Passionate about developing high-quality software solutions
+using modern technologies and clean development practices. A quick learner with strong problem-solving,
+teamwork, and leadership skills, committed to contributing effectively to collaborative development teams."</h3>
 
-- 🔭 I’m currently working on **Full-stack Web Development**
-
-- 🌱 I’m currently learning **Mobile App Development & Ethical Hacking**
+- Full-stack Web Developer
 
 - 📫 How to reach me **rafimahmudul96@gmail.com**
 
