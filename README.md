@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Md. Mahmudul Hasan Rafi</h1>
-<h3 align="center">"Full-Stack Web Developer specializing in the MERN Stack, with hands-on experience building scalable,
+<h3>"Full-Stack Web Developer specializing in the MERN Stack, with hands-on experience building scalable,
 responsive, and user-friendly web applications. Passionate about developing high-quality software solutions
 using modern technologies and clean development practices. A quick learner with strong problem-solving,
 teamwork, and leadership skills, committed to contributing effectively to collaborative development teams."</h3>
